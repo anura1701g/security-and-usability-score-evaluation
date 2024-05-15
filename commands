@@ -1,0 +1,7 @@
+#Commands#
+pip install androguard==3.3.5
+!pip install streamlit
+!pip install streamlit-lottie
+!wget-q-o-ipv4.icanhazip.com
+!streamlit run file.py&npx
+localtunnel; -- port8501
